@@ -7,6 +7,7 @@
 #       4. Hasib Abdullah (CSE-01406316) | https://github.com/hasibctg
 #       5. Mohammad Azad  (CSE - 01406365) | https://github.com/jrazad10/
 
+# Course Instructed by Mr. Muhtadir Rahman
 
 # Single-Channel-Queue-System
 
