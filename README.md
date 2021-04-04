@@ -3,17 +3,23 @@
 
 ##  Group 3 
                        
-                       1. Md Woise Uddin Akbar (CSE-01105875) | https://github.com/OKCSE/  [Team Leader]
-                       2. Hasib Abdullah (CSE-01406316) | https://github.com/hasibctg/
-                       3. Raghib Shahriar (CSE - 01206008) | https://github.com/Raghib6/
-                       4. Joseph Diaz (CSE-01406362) | https://github.com/Joseph440G0/
-                       5. Mohammad Azad  (CSE - 01406365) | https://github.com/jrazad10/
+   1.[ Md Woise Uddin Akbar (CSE-01105875)](https://github.com/OKCSE/)  [Team Leader]
+   
+   2.[ Hasib Abdullah (CSE-01406316)](https://github.com/hasibctg/)
+   
+   3.[ Raghib Shahriar (CSE - 01206008)](https://github.com/Raghib6/)
+   
+   4.[ Joseph Diaz (CSE-01406362)](https://github.com/Joseph440G0/)
+   
+   5.[ Mohammad Azad  (CSE - 01406365)](https://github.com/jrazad10/)
 
 ## Course Instructor:
-
-                      [Mr. Muhtadir Rahman](https://github.com/muhtadir)
-                      Lecturer, Department of CSE
-                      Port City International University
+   
+   [Mr. Muhtadir Rahman](https://github.com/muhtadir)
+   
+   Lecturer, Department of CSE
+   
+   Port City International University
 
 # Single-Channel-Queue-System
 
@@ -59,7 +65,7 @@ Where:
 In general, Poison distribution works with a discrete value. As we know inter-arrival time does not occur in sequential manner, it works randomly. Thus poisson distribution are used for that.
 
 
-# Brief introduction to Exponential Distribution and why it used #
+# Brief Introduction to Exponential Distribution and why it used #
 
 The exponential distribution is often concerned with the amount of time until some specific event occurs. For example, the amount of time (beginning now) until an earthquake occurs has an exponential distribution. Other examples include the length, in minutes, of long distance business telephone calls, and the amount of time, in months, a car battery lasts. It can be shown, too, that the value of the change that you have in your pocket or purse approximately follows an exponential distribution.
 
