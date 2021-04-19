@@ -73,6 +73,8 @@ Exponential Distribution deals with the time between occurrences of successive e
 
 # The problem and why we are solving it #
 Our problem is to simulate a bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. We used exactly 19 to 20 random variates for generating the random variables(two). We didn’t consider after precision values of decimal point for service times during simulation for the convenience. We used subroutine, objects and built-in function in python programming language. 
-In this project, we have used simulation to analyze the queueing system. There are advantages of a simulation model: A simulation model can be used to investigate a wide verity of “what-if” questions about the real-world system. Actually, we have solved single channel queuing problem, 
+
+In this project, we have used simulation to analyze the queueing system. There are advantages of a simulation model: A simulation model can be used to investigate a wide verity of “what-if” questions about the real-world system. Actually, we have solved single channel queuing problem. 
+
      It is important to create a simulation of a real-world system before implement it physically. For this we can find out any problem that would be face in future. A simulation helps to understand overall working principle of the system. We have also solved this bank simulation system to find out some specific tasks, 1. Average waiting time of a customers, 2. Average time spend in the system, 3. Probability of a server being idle, 4. Average interarrival time 
 
