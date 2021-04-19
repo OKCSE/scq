@@ -9,7 +9,7 @@
    
    3.[ Raghib Shahriar (CSE - 01206008)](https://github.com/Raghib6/)
    
-   4.[ Joseph Diaz (CSE-01406362)](https://github.com/Joseph440G0/)
+   4.[ Joseph Dias (CSE-01406362)](https://github.com/Joseph440G0/)
    
    5.[ Mohammad Azad  (CSE - 01406365)](https://github.com/jrazad10/)
 
